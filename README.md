@@ -1,4 +1,4 @@
-# 🚀 Distributed Data Processing with Apache Spark on Databricks
+# Distributed Data Processing with Apache Spark on Databricks
 
 This project implements an end-to-end **distributed data processing pipeline** using **Apache Spark** running on **Azure Databricks**, with data ingestion from **Azure Data Lake Storage (ADLS)**.  
 It demonstrates a realistic workflow for building scalable data engineering solutions based on the Spark DataFrame API.
